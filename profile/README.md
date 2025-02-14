@@ -1,4 +1,7 @@
-# KP DPMPTSP Kota Padang
+<div align="center">
+  <img src="https://github.com/kp-dpmptsp-padang/.github/raw/main/profile/assets/dpmptsp-kota-padang.png" alt="Logo DPMPTSP Kota Padang" style="width: 20%;">
+  <h1>KP DPMPTSP Kota Padang</h1>
+</div>
 
 Welcome to the official GitHub organization for KP DPMPTSP Kota Padang 2025. This organization hosts repositories for various projects developed during our internship (Kerja Praktek) at Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu (DPMPTSP) Kota Padang.
 
